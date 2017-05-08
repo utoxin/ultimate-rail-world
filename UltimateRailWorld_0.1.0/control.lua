@@ -7,9 +7,9 @@ function unlock_rail_research()
 		"engine",
 		"logistics",
 		"logistics-2",
-		"rail-signals"
+		"rail-signals",
 		"railway",
-		"steel-processing",
+		"steel-processing"
 	}
 
 	for i,tech in ipairs(techs) do

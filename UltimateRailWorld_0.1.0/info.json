@@ -1,11 +1,11 @@
 {
 	"name": "UltimateRailWorld",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"title": "Ultimate Rail World",
 	"author": "Utoxin",
 	"contact": "utoxin@gmail.com",
 	"homepage": "",
 	"factorio_version": "0.15",
 	"dependencies": ["base >= 0.15"],
-	"description": "Change the rules of the game. No belts. Not logistics bots. All rails. All the time."
+	"description": "Change the rules of the game. No belts. No logistics bots. All rails. All the time."
 }

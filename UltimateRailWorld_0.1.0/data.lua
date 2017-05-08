@@ -14,7 +14,6 @@ data.raw.recipe["express-splitter"].hidden = true
 data.raw.recipe["express-underground-belt"].hidden = true
 
 -- Logistics Bot & Requester Chest
-data.raw.technology["logistic-robotics"].enabled = false
 data.raw.technology["logistic-system"].enabled = false
 
 -- Replace Belts In Recipes
