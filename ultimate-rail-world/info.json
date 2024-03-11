@@ -1,0 +1,11 @@
+{
+	"name": "ultimate-rail-world",
+	"version": "0.3.0",
+	"title": "Ultimate Rail World",
+	"author": "Utoxin",
+	"contact": "utoxin@gmail.com",
+	"homepage": "https://github.com/utoxin/ultimate-rail-world",
+	"description": "Change the rules of the game. No belts. Not logistics bots. All rails. All the time.",
+	"factorio_version": "1.1",
+	"dependencies": ["base >= 1.1"]
+}

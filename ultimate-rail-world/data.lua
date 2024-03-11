@@ -13,11 +13,15 @@ data.raw.recipe["express-transport-belt"].hidden = true
 data.raw.recipe["express-splitter"].hidden = true
 data.raw.recipe["express-underground-belt"].hidden = true
 
--- Logistics Bot & Requester Chest
-data.raw.technology["logistic-robotics"].enabled = false
+-- Requester Chest
 data.raw.technology["logistic-system"].enabled = false
+
+-- Hide the belt researches from the tech tree
+data.raw.technology["logistics"].hidden = true
+data.raw.technology["logistics-2"].hidden = true
+data.raw.technology["logistics-3"].hidden = true
 
 -- Replace Belts In Recipes
 -- TODO: Do this dynamically
 data.raw.recipe["lab"].ingredients = {{"electronic-circuit", 10}, {"iron-gear-wheel", 10}, {"rail", 4}}
-data.raw.recipe["science-pack-2"].ingredients = {{"inserter", 1}, {"rail", 1}}
+data.raw.recipe["logistic-science-pack"].ingredients = {{"inserter", 1}, {"rail", 1}}

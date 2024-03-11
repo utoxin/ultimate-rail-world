@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 2024/03/10
+  Changes:
+    - Updated required Factorio version to allow it to run in 1.1.
+    - Updated references to items that have changed names in the last 7 years.
+
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2017/05/08
+  Changes:
+    - Re-enabled logistics bots, but leaving logistic system disabled, so no requester chests or active providers.
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2017/05/07
+  Added:
+    - Initial version.
+    - Remove belts and logistics bots.
+    - Unlock required train tech from the start.
