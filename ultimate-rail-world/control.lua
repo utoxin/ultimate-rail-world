@@ -9,10 +9,10 @@ function unlock_rail_research()
 		"logistics-2",
 		"rail-signals",
 		"railway",
-		"steel-processing",
+		"steel-processing"
 	}
 
-	for i,tech in ipairs(techs) do
+	for _,tech in ipairs(techs) do
 		game.forces["player"].technologies[tech].researched = true
 	end
 end
