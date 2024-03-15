@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2024/03/10
+  Added:
+    - Added a thumbnail for the mod portal.
+  Changes:
+    - Fixed an issue with express transport belts showing up in the crafting menu if they were somehow unlocked.
+
+---------------------------------------------------------------------------------------------------
 Version: 0.3.0
 Date: 2024/03/10
   Changes:
