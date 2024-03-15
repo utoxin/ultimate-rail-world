@@ -9,7 +9,8 @@ data.raw.recipe["fast-splitter"].hidden = true
 data.raw.recipe["fast-underground-belt"].hidden = true
 
 -- Tier 3 Belts & Associated Items
-data.raw.recipe["express-transport-belt"].hidden = true
+data.raw.recipe["express-transport-belt"].normal.hidden = true
+data.raw.recipe["express-transport-belt"].expensive.hidden = true
 data.raw.recipe["express-splitter"].hidden = true
 data.raw.recipe["express-underground-belt"].hidden = true
 
